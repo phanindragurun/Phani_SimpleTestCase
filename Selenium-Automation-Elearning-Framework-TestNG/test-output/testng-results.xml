@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25317" started-at="2019-06-19T06:59:40Z" finished-at="2019-06-19T07:00:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25317" started-at="2019-06-19T06:59:40Z" finished-at="2019-06-19T07:00:05Z">
+      <class name="com.training.sanity.tests.LostPassword">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.LostPassword@28feb3fa]" name="setUpBeforeClass" is-config="true" duration-ms="9" started-at="2019-06-19T12:29:40Z" finished-at="2019-06-19T12:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.LostPassword@28feb3fa]" name="setUp" is-config="true" duration-ms="18676" started-at="2019-06-19T12:29:40Z" finished-at="2019-06-19T12:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.training.sanity.tests.LostPassword@28feb3fa]" name="validLoginTest" duration-ms="5607" started-at="2019-06-19T12:29:59Z" finished-at="2019-06-19T12:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.LostPassword@28feb3fa]" name="tearDown" is-config="true" duration-ms="1001" started-at="2019-06-19T12:30:04Z" finished-at="2019-06-19T12:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.LostPassword -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
